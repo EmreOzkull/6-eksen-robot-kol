@@ -1,0 +1,54 @@
+
+ROM used:   4796/65536 (7%)
+            4796/65536 (7%) including unused fragments
+
+            2.6 Average locations per line
+            11.4 Average locations per statement
+
+RAM used:   315/3896 (8%) at main() level
+            315/3896 (8%) worst case
+
+Stack used: 3 worst case (3 in main + 0 for interrupts)
+Stack size: 31
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+  638   419 100  roboticarm.c
+ 1039     0   0  ..\..\..\..\..\Program Files (x86)\PICC\Devices\18f46k22.h
+  180     0   0  ..\..\..\..\..\Program Files (x86)\PICC\Drivers\stdint.h
+----- -----
+ 1857   419 Total
+
+Page ROM  %  RAM    Vol Diff  Functions:
+---- --- --- ---    --- ----  ----------
+0     42   0    1             @delay_ms1
+0     44   0    1             @delay_us1
+0    138   1    2    323  3.3  moveMotorTaban
+0    134   1    2    323  3.3  moveMotorNema
+0    130   1    2    323  3.3  moveMotorDirsek
+0    130   1    2    323  3.3  moveMotorBilek
+0    130   1    2    323  3.3  moveMotorEl
+0    658   7    0   1617  4.9  resetMoves
+0   1686  18    0   5162  6.5  playMoves
+0   1700  18   14   5189  6.5  MAIN
+ Inline         0             @cinit1
+
+Program metrics:
+    Functions               8
+    Statements              419
+    Comments                297
+    Volume (V)              17733
+    Difficulty (D)          34.7
+    Effort to implement (E) 614782
+    Time to implement (T)   9 hours, 29 minutes
+    Est Delivered Bugs (B)  2
+    Cyclomatic Complexity   89
+    Maintainability (MI)    64
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-00002     4  0  
+00004-0FFFE  4792  60740  
+
+
+

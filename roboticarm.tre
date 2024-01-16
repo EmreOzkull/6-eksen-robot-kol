@@ -1,0 +1,112 @@
+ÀÄroboticarm
+   ÀÄMAIN  0/1700  Ram=14
+      ÃÄ@cinit1  (Inline)  Ram=0
+      ÃÄmoveMotorTaban  0/138  Ram=2
+      ³  ÃÄ@delay_us1  0/44  Ram=1
+      ³  ÃÄ@delay_us1  0/44  Ram=1
+      ³  ÃÄ@delay_us1  0/44  Ram=1
+      ³  ÀÄ@delay_us1  0/44  Ram=1
+      ÃÄmoveMotorTaban  0/138  Ram=2
+      ³  ÀÄ*
+      ÃÄmoveMotorNema  0/134  Ram=2
+      ³  ÃÄ@delay_us1  0/44  Ram=1
+      ³  ÃÄ@delay_us1  0/44  Ram=1
+      ³  ÃÄ@delay_us1  0/44  Ram=1
+      ³  ÀÄ@delay_us1  0/44  Ram=1
+      ÃÄmoveMotorNema  0/134  Ram=2
+      ³  ÀÄ*
+      ÃÄmoveMotorDirsek  0/130  Ram=2
+      ³  ÃÄ@delay_us1  0/44  Ram=1
+      ³  ÃÄ@delay_us1  0/44  Ram=1
+      ³  ÃÄ@delay_us1  0/44  Ram=1
+      ³  ÀÄ@delay_us1  0/44  Ram=1
+      ÃÄmoveMotorDirsek  0/130  Ram=2
+      ³  ÀÄ*
+      ÃÄmoveMotorBilek  0/130  Ram=2
+      ³  ÃÄ@delay_us1  0/44  Ram=1
+      ³  ÃÄ@delay_us1  0/44  Ram=1
+      ³  ÃÄ@delay_us1  0/44  Ram=1
+      ³  ÀÄ@delay_us1  0/44  Ram=1
+      ÃÄmoveMotorBilek  0/130  Ram=2
+      ³  ÀÄ*
+      ÃÄmoveMotorEl  0/130  Ram=2
+      ³  ÃÄ@delay_us1  0/44  Ram=1
+      ³  ÃÄ@delay_us1  0/44  Ram=1
+      ³  ÃÄ@delay_us1  0/44  Ram=1
+      ³  ÀÄ@delay_us1  0/44  Ram=1
+      ÃÄmoveMotorEl  0/130  Ram=2
+      ³  ÀÄ*
+      ÃÄ@delay_ms1  0/42  Ram=1
+      ÃÄ@delay_ms1  0/42  Ram=1
+      ÃÄresetMoves  0/658  Ram=0
+      ³  ÃÄmoveMotorTaban  0/138  Ram=2
+      ³  ³  ÀÄ*
+      ³  ÃÄmoveMotorTaban  0/138  Ram=2
+      ³  ³  ÀÄ*
+      ³  ÃÄmoveMotorNema  0/134  Ram=2
+      ³  ³  ÀÄ*
+      ³  ÃÄmoveMotorNema  0/134  Ram=2
+      ³  ³  ÀÄ*
+      ³  ÃÄmoveMotorDirsek  0/130  Ram=2
+      ³  ³  ÀÄ*
+      ³  ÃÄmoveMotorDirsek  0/130  Ram=2
+      ³  ³  ÀÄ*
+      ³  ÃÄmoveMotorBilek  0/130  Ram=2
+      ³  ³  ÀÄ*
+      ³  ÃÄmoveMotorBilek  0/130  Ram=2
+      ³  ³  ÀÄ*
+      ³  ÃÄmoveMotorEl  0/130  Ram=2
+      ³  ³  ÀÄ*
+      ³  ÀÄmoveMotorEl  0/130  Ram=2
+      ³     ÀÄ*
+      ÃÄ@delay_ms1  0/42  Ram=1
+      ÃÄ@delay_ms1  0/42  Ram=1
+      ÃÄ@delay_ms1  0/42  Ram=1
+      ÃÄ@delay_ms1  0/42  Ram=1
+      ÃÄresetMoves  0/658  Ram=0
+      ³  ÀÄ*
+      ÃÄplayMoves  0/1686  Ram=0
+      ³  ÃÄmoveMotorTaban  0/138  Ram=2
+      ³  ³  ÀÄ*
+      ³  ÃÄmoveMotorTaban  0/138  Ram=2
+      ³  ³  ÀÄ*
+      ³  ÃÄmoveMotorNema  0/134  Ram=2
+      ³  ³  ÀÄ*
+      ³  ÃÄmoveMotorNema  0/134  Ram=2
+      ³  ³  ÀÄ*
+      ³  ÃÄmoveMotorDirsek  0/130  Ram=2
+      ³  ³  ÀÄ*
+      ³  ÃÄmoveMotorDirsek  0/130  Ram=2
+      ³  ³  ÀÄ*
+      ³  ÃÄmoveMotorBilek  0/130  Ram=2
+      ³  ³  ÀÄ*
+      ³  ÃÄmoveMotorBilek  0/130  Ram=2
+      ³  ³  ÀÄ*
+      ³  ÃÄmoveMotorEl  0/130  Ram=2
+      ³  ³  ÀÄ*
+      ³  ÃÄmoveMotorEl  0/130  Ram=2
+      ³  ³  ÀÄ*
+      ³  ÃÄmoveMotorTaban  0/138  Ram=2
+      ³  ³  ÀÄ*
+      ³  ÃÄmoveMotorTaban  0/138  Ram=2
+      ³  ³  ÀÄ*
+      ³  ÃÄmoveMotorNema  0/134  Ram=2
+      ³  ³  ÀÄ*
+      ³  ÃÄmoveMotorNema  0/134  Ram=2
+      ³  ³  ÀÄ*
+      ³  ÃÄmoveMotorDirsek  0/130  Ram=2
+      ³  ³  ÀÄ*
+      ³  ÃÄmoveMotorDirsek  0/130  Ram=2
+      ³  ³  ÀÄ*
+      ³  ÃÄmoveMotorBilek  0/130  Ram=2
+      ³  ³  ÀÄ*
+      ³  ÃÄmoveMotorBilek  0/130  Ram=2
+      ³  ³  ÀÄ*
+      ³  ÃÄmoveMotorEl  0/130  Ram=2
+      ³  ³  ÀÄ*
+      ³  ÀÄmoveMotorEl  0/130  Ram=2
+      ³     ÀÄ*
+      ÃÄ@delay_ms1  0/42  Ram=1
+      ÃÄ@delay_ms1  0/42  Ram=1
+      ÀÄresetMoves  0/658  Ram=0
+         ÀÄ*

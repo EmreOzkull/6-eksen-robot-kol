@@ -1,0 +1,54 @@
+Compiling C:\Users\emreo\OneDrive\Masaüstü\Roboticarm\roboticarm on 18-Haz-23 at 15:58
+*** Error 1 "roboticarm.c" Line 66(1,2): Illegal C character in input file  0x80
+*** Error 1 "roboticarm.c" Line 66(1,2): Illegal C character in input file  0x00
+*** Error 1 "roboticarm.c" Line 66(1,2): Illegal C character in input file  0x80
+*** Error 36 "roboticarm.c" Line 66(122,128): Expecting a ; or ,
+*** Error 12 "roboticarm.c" Line 177(7,14): Undefined identifier   pulseY3
+*** Error 12 "roboticarm.c" Line 178(7,13): Undefined identifier   pulseZ
+*** Error 12 "roboticarm.c" Line 213(13,20): Undefined identifier   pulseY3
+*** Error 12 "roboticarm.c" Line 216(13,20): Undefined identifier   pulseY3
+*** Error 12 "roboticarm.c" Line 219(13,20): Undefined identifier   pulseY3
+*** Error 12 "roboticarm.c" Line 224(13,19): Undefined identifier   pulseZ
+*** Error 12 "roboticarm.c" Line 227(13,19): Undefined identifier   pulseZ
+*** Error 12 "roboticarm.c" Line 230(13,19): Undefined identifier   pulseZ
+*** Error 12 "roboticarm.c" Line 249(10,20): Undefined identifier   dif_y2_new
+*** Error 12 "roboticarm.c" Line 251(10,16): Undefined identifier   dif_y3
+*** Error 12 "roboticarm.c" Line 252(10,20): Undefined identifier   dif_y3_new
+*** Error 12 "roboticarm.c" Line 254(10,15): Undefined identifier   dif_z
+*** Error 12 "roboticarm.c" Line 255(10,19): Undefined identifier   dif_z_new
+*** Error 12 "roboticarm.c" Line 287(13,23): Undefined identifier   dif_y2_new
+*** Error 12 "roboticarm.c" Line 289(13,23): Undefined identifier   dif_y2_new
+*** Error 12 "roboticarm.c" Line 291(13,23): Undefined identifier   dif_y2_new
+*** Error 12 "roboticarm.c" Line 293(13,23): Undefined identifier   dif_y2_new
+*** Error 12 "roboticarm.c" Line 300(43,53): Undefined identifier   dif_y2_new
+*** Error 12 "roboticarm.c" Line 301(13,23): Undefined identifier   dif_y3_new
+*** Error 12 "roboticarm.c" Line 303(13,23): Undefined identifier   dif_y3_new
+*** Error 12 "roboticarm.c" Line 305(13,23): Undefined identifier   dif_y3_new
+*** Error 12 "roboticarm.c" Line 307(13,23): Undefined identifier   dif_y3_new
+*** Error 12 "roboticarm.c" Line 309(13,23): Undefined identifier   dif_y3_new
+*** Error 12 "roboticarm.c" Line 313(43,53): Undefined identifier   dif_y2_new
+*** Error 12 "roboticarm.c" Line 314(13,22): Undefined identifier   dif_z_new
+*** Error 12 "roboticarm.c" Line 316(13,22): Undefined identifier   dif_z_new
+*** Error 12 "roboticarm.c" Line 318(13,22): Undefined identifier   dif_z_new
+*** Error 12 "roboticarm.c" Line 320(13,22): Undefined identifier   dif_z_new
+*** Error 12 "roboticarm.c" Line 322(13,22): Undefined identifier   dif_z_new
+*** Error 12 "roboticarm.c" Line 338(10,20): Undefined identifier   dif_y2_new
+*** Error 12 "roboticarm.c" Line 340(10,16): Undefined identifier   dif_y3
+*** Error 12 "roboticarm.c" Line 341(10,20): Undefined identifier   dif_y3_new
+*** Error 12 "roboticarm.c" Line 343(10,15): Undefined identifier   dif_z
+*** Error 12 "roboticarm.c" Line 344(10,19): Undefined identifier   dif_z_new
+*** Error 12 "roboticarm.c" Line 370(13,23): Undefined identifier   dif_y2_new
+*** Error 12 "roboticarm.c" Line 372(13,23): Undefined identifier   dif_y2_new
+*** Error 12 "roboticarm.c" Line 374(13,23): Undefined identifier   dif_y2_new
+*** Error 12 "roboticarm.c" Line 376(13,23): Undefined identifier   dif_y2_new
+*** Error 12 "roboticarm.c" Line 379(47,57): Undefined identifier   dif_y2_new
+*** Error 12 "roboticarm.c" Line 381(13,23): Undefined identifier   dif_y3_new
+*** Error 12 "roboticarm.c" Line 383(13,23): Undefined identifier   dif_y3_new
+*** Error 12 "roboticarm.c" Line 385(13,23): Undefined identifier   dif_y3_new
+*** Error 12 "roboticarm.c" Line 387(13,23): Undefined identifier   dif_y3_new
+*** Error 12 "roboticarm.c" Line 396(47,57): Undefined identifier   dif_y2_new
+*** Error 12 "roboticarm.c" Line 398(13,22): Undefined identifier   dif_z_new
+*** Error 12 "roboticarm.c" Line 400(13,22): Undefined identifier   dif_z_new
+*** Error 12 "roboticarm.c" Line 402(13,22): Undefined identifier   dif_z_new
+*** Error 12 "roboticarm.c" Line 404(13,22): Undefined identifier   dif_z_new
+*** Error 12 "roboticarm.c" Line 406(13,22): Undefined identifier   dif_z_new

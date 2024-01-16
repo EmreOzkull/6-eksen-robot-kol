@@ -1,0 +1,134 @@
+000     @SCRATCH
+001     @SCRATCH
+001     _RETURN_
+002     @SCRATCH
+003     @SCRATCH
+004     rec_fl
+005     i
+006     bsk
+007     ply_fl
+008     clfl
+009     home_fl
+00A     c7_fl
+00B     clfl_fl
+00C     reset_fl
+00D-010 x
+011-014 y1
+015-018 y2
+019-01C y3
+01D-020 z
+021-024 dif_x
+025-028 a
+029-02C b
+02D-030 dif_x_new
+031-034 pulseX
+035-038 pulseY1
+039-03C dif_y1
+03D-040 dif_y1_new
+041-044 pulseY2
+045-048 dif_y2
+049-04C dif_y2_new
+04D-050 pulseY3
+051-054 dif_y3
+055-058 dif_y3_new
+059-05C pulseZ
+05D-060 dif_z
+061-064 dif_z_new
+065-12C hafiza
+12D-12E MAIN.joystick_taban
+12F-130 MAIN.joystick_nema
+131-132 MAIN.joystick_dirsek
+133-134 MAIN.joystick_bilek
+135-136 MAIN.joystick_el
+137     moveMotorTaban.direction
+137     moveMotorDirsek.direction
+137     moveMotorEl.direction
+137     moveMotorBilek.direction
+137     moveMotorNema.direction
+137     MAIN.@SCRATCH1
+138     @delay_ms1.P1
+138     moveMotorTaban.@SCRATCH1
+138     moveMotorNema.@SCRATCH1
+138     moveMotorDirsek.@SCRATCH1
+138     moveMotorBilek.@SCRATCH1
+138     moveMotorEl.@SCRATCH1
+138     MAIN.@SCRATCH2
+139     @delay_us1.P1
+139     MAIN.@SCRATCH3
+13A     MAIN.@SCRATCH4
+F55     CCP_5_LOW
+F55     CCP_5
+F56     CCP_5_HIGH
+F58     CCP_4
+F58     CCP_4_LOW
+F59     CCP_4_HIGH
+F5E     CCP_3_LOW
+F5E     CCP_3
+F5F     CCP_3_HIGH
+F67     CCP_2_LOW
+F67     CCP_2
+F68     CCP_2_HIGH
+F78.6   C2OUT
+F79.6   C1OUT
+FBE     CCP_1
+FBE     CCP_1_LOW
+FBF     CCP_1_HIGH
+FE1-FE2 @WRITE_PACKED_MEMORY.P1
+FE1-FE2 @READ_PACKED_MEMORY.P2
+FE9-FEA @READ_PACKED_MEMORY.P1
+FE9-FEA @WRITE_PROGRAM_MEMORY.P2
+FE9-FEA @READ_PROGRAM_MEMORY.P3
+FE9-FEA @WRITE_PACKED_MEMORY.P4
+FF6-FF8 @WRITE_PROGRAM_MEMORY.P1
+FF6-FF8 @READ_PROGRAM_MEMORY.P2
+
+ROM Allocation:
+000004  @delay_us1
+000030  moveMotorTaban
+0000BA  moveMotorNema
+000140  moveMotorDirsek
+0001C2  moveMotorBilek
+000244  moveMotorEl
+0002C6  @delay_ms1
+0002F0  resetMoves
+000582  playMoves
+000C18  MAIN
+000C18  @cinit1
+000CF8  @cinit2
+
+Project Directory:
+    C:\Users\emreo\OneDrive\Masaüstü\Roboticarm\
+
+Project Files:
+    roboticarm.c                                            [04-Haz-23 22:29  CRC=8F7576D8]
+    ..\..\..\..\..\Program Files (x86)\PICC\Devices\18f46k22.h [20-Eyl-18 12:33  CRC=3A5B3E1C]
+    ..\..\..\..\..\Program Files (x86)\PICC\Drivers\stdint.h [12-Nis-18 09:50  CRC=F5866EA9]
+
+Source signature=B4DD9246
+Program memory checksum=0000
+Program memory CRC=0000
+Hex file CRC=A737
+
+Units:
+    roboticarm (main)
+
+Compiler Settings:
+    Processor:      PIC18F46K22
+    Pointer Size:   16
+    ADC Range:      0-1023
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+    Compile Mode:       CCS5
+
+Output Files:
+    XREF file:   roboticarm.xsym
+    Errors:      roboticarm.err
+    Ext Symbols: roboticarm.esym
+    INHX32:      roboticarm.hex
+    Symbols:     roboticarm.sym
+    List:        roboticarm.lst
+    Debug/COFF:  roboticarm.cof
+    Project:     roboticarm.ccspjt
+    Call Tree:   roboticarm.tre
+    Statistics:  roboticarm.STA
